@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Albani",
+		"image": "img/logos/Albani.png"
+	},
+    {
+		"name": "Musikhuset Posten",
+		"image": "img/logos/MusikHusetPosten.png"
+	},
+    {
+		"name": "Nedenunder",
+		"image": "img/logos/Nedenunder.png"
+	},
+    {
+		"name": "Odense Havn",
+		"image": "img/logos/OdenseHavn.png"
+	},
+    {
+		"name": "Syddansk Studerende",
+		"image": "img/logos/SyddanskStuderende.png"
+	},
+    {
+		"name": "HJ-Hansen",
+		"image": "img/logos/HJ-Hansen.png"
+	},
+    {
+		"name": "The Voice",
+		"image": "img/logos/TheVoice.png"
+	},
+    {
+		"name": "First Hotel Grand",
+		"image": "img/logos/FirstHotelGrand.png"
+	}
+]

@@ -1,0 +1,23 @@
+{
+  "name": "warehousefestival.dk",
+  "version": "0.0.1",
+  "description": "Warehouse festival er etableret af et stærk samarbejde med private virksomheder og instutioner som til sammen ønsker at skabe en festival",
+  "main": "build/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tcarlsen",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "tiny-lr": "0.0.5",
+    "gulp-ngmin": "~0.1.2",
+    "gulp-concat": "~2.1.7",
+    "gulp-styl": "~0.2.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-livereload": "~1.1.1",
+    "gulp-jsonminify": "0.0.1",
+    "gulp-header": "~1.0.2",
+    "gulp-csso": "~0.2.3",
+    "gulp": "~3.5.2"
+  }
+}

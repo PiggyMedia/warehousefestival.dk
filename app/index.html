@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" ng-app="whfApp">
+<head>
+    <meta charset="UTF-8">
+    <title>WAREHOUSE FESTIVAL 2014</title>
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+    <!--<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">-->
+    <link rel="stylesheet" href="styles.min.css">
+</head>
+<body>
+    
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <ul id="menu" class="nav navbar-nav">
+                <li ng-class="{active: currentPage == '/'}"><a href="#/">WHF 2014</a></li>
+                <li ng-class="{active: currentPage == '/program'}"><a href="#/program">MUSIKPROGRAM</a></li>
+                <li ng-class="{active: currentPage == '/information'}"><a href="#/information">INFORMATION</a></li>
+                <li ng-class="{active: currentPage == '/billet'}"><a href="#/billet">KØB BILLET</a></li>
+            </ul>
+            <a href="https://www.facebook.com/WarehouseFestivalOdense" class="btn btn-primary navbar-btn navbar-right"><span class="glyphicon glyphicon-user"></span> Find os på facebook</a>
+        </div>
+    </nav>
+    
+    <div ng-view class="container fade"></div>
+    
+    <script src="lib/angular/angular.min.js"></script>
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.12/angular.min.js"></script>-->
+    <script src="lib/angular/angular-route.min.js"></script>
+    <script src="lib/angular/angular-animate.min.js"></script>
+    <script src="scripts.min.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,30 @@
+/* Global */
+body {
+    background-color: #000;
+    background-image: url('img/wfhback.jpg');
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: #000;
+    color: #fff;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+/* whf template */
+.whf-logo {
+    margin-top: 100px;
+}
+
+/* information template */
+.sponsors {
+    margin: 10px 0;
+}
+
+/* program template */
+.artists {
+    margin: 10px 0;
+}
