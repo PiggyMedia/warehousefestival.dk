@@ -2,6 +2,7 @@
 <html lang="en" ng-app="whfApp">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>WAREHOUSE FESTIVAL 2014</title>
     <!--<link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">-->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
@@ -11,13 +12,23 @@
     
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
-            <ul id="menu" class="nav navbar-nav">
-                <li ng-class="{active: currentPage == '/'}"><a href="#/">WHF 2014</a></li>
-                <li ng-class="{active: currentPage == '/program'}"><a href="#/program">MUSIKPROGRAM</a></li>
-                <li ng-class="{active: currentPage == '/information'}"><a href="#/information">INFORMATION</a></li>
-                <li ng-class="{active: currentPage == '/billet'}"><a href="#/billet">KØB BILLET</a></li>
-            </ul>
-            <a href="https://www.facebook.com/WarehouseFestivalOdense" class="btn btn-primary navbar-btn navbar-right"><span class="glyphicon glyphicon-user"></span> Find os på facebook</a>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse" navbarcollapse>
+                    <span class="sr-only">Menu</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#/">WHF 2014</a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul id="menu" class="nav navbar-nav">
+                    <li ng-class="{active: currentPage == '/program'}"><a href="#/program">MUSIKPROGRAM</a></li>
+                    <li ng-class="{active: currentPage == '/information'}"><a href="#/information">INFORMATION</a></li>
+                    <li ng-class="{active: currentPage == '/billet'}"><a href="#/billet">KØB BILLET</a></li>
+                </ul>
+                <a href="https://www.facebook.com/WarehouseFestivalOdense" class="btn btn-primary navbar-btn navbar-right"><span class="glyphicon glyphicon-user"></span> Find os på facebook</a>
+            </div>
         </div>
     </nav>
     
@@ -27,6 +38,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.12/angular.min.js"></script>
     <script src="lib/angular/angular-route.min.js"></script>
     <script src="lib/angular/angular-animate.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <script src="scripts.min.js"></script>
     
 </body>
