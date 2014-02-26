@@ -16,6 +16,16 @@ body {
     margin: 0;
 }
 
+.btn-facebook {
+    background-color: #3b5998;
+    color: #fff;
+}
+
+.btn-facebook:hover {
+    background-color: #4b67a1;
+    color: #e2e2e2;
+}
+
 /* whf template */
 .whf-logo {
     margin-top: 80px;
