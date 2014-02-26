@@ -40,3 +40,8 @@ body {
 .artists {
     margin: 10px 0;
 }
+
+.panel-artists {
+    background-color: #222;
+    border: none;
+}

@@ -1,12 +1,27 @@
 [
 	{
-		"name": "TopGunn",
-		"day": "",
-		"image": "img/artists/topgunn14.png"
-	},
-    {
 		"name": "Turboweekend",
 		"day": "",
-		"image": "img/artists/turboweekend.png"
+		"image": "img/artists/whf14turboweekend.jpg"
+	},
+    {
+		"name": "TopGunn",
+		"day": "",
+		"image": "img/artists/whf14topgunn.jpg"
+	},
+    {
+		"name": "Vild $mith",
+		"day": "",
+		"image": "img/artists/whf14vildsmith.jpg"
+	},
+    {
+		"name": "Snavs",
+		"day": "",
+		"image": "img/artists/whf14snavs.jpg"
+	},
+    {
+		"name": "Fabian Mazur",
+		"day": "",
+		"image": "img/artists/whf14fabianmazur.jpg"
 	}
 ]
