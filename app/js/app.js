@@ -9,7 +9,7 @@ var whfApp = angular.module('whfApp', [
 
 whfApp.config(function ($routeProvider) {
     'use strict';
-    
+
     $routeProvider
         .when('/', {
             templateUrl: 'partials/whf.html',
@@ -25,6 +25,10 @@ whfApp.config(function ($routeProvider) {
         })
         .when('/billet', {
             templateUrl: 'partials/billet.html',
+            controller: 'HomeCtrl'
+        })
+        .when('/kontakt', {
+            templateUrl: 'partials/kontakt.html',
             controller: 'HomeCtrl'
         })
         .otherwise({
