@@ -9,15 +9,40 @@
 		"day": "",
 		"image": "img/artists/whf14topgunn.jpg"
 	},
+	{
+		"name": "L.I.G.A",
+		"day": "",
+		"image": "img/artists/whf14liga.jpg"
+	},
+	{
+		"name": "Kenneth Bager",
+		"day": "",
+		"image": "img/artists/whf14kennethbager.jpg"
+	},
     {
 		"name": "Vild $mith",
 		"day": "",
 		"image": "img/artists/whf14vildsmith.jpg"
 	},
+	{
+		"name": "JULIAS MOON",
+		"day": "",
+		"image": "img/artists/whf14juliasmoon.jpg"
+	},
+	{
+		"name": "TooManyLeftHands",
+		"day": "",
+		"image": "img/artists/whf14toomanylefthands.jpg"
+	},
     {
 		"name": "Snavs",
 		"day": "",
 		"image": "img/artists/whf14snavs.jpg"
+	},
+	{
+		"name": "Heimatt",
+		"day": "",
+		"image": "img/artists/whf14heimatt.jpg"
 	},
     {
 		"name": "Fabian Mazur",
@@ -28,5 +53,25 @@
 		"name": "MOTO",
 		"day": "",
 		"image": "img/artists/whf14moto.jpg"
+	},
+	{
+		"name": "Affekt",
+		"day": "",
+		"image": "img/artists/whf14affekt.jpg"
+	},
+	{
+		"name": "Dirty Old Town",
+		"day": "",
+		"image": "img/artists/whf14dirtyoldtown.jpg"
+	},
+	{
+		"name": "Annasaid",
+		"day": "",
+		"image": "img/artists/whf14annasaid.jpg"
+	},
+	{
+		"name": "Amin Safari og Hamdernicolai",
+		"day": "",
+		"image": "img/artists/whf14aminsafarioghamdernicolai.jpg"
 	}
 ]
