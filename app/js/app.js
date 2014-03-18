@@ -23,6 +23,10 @@ whfApp.config(function ($routeProvider) {
             templateUrl: 'partials/information.html',
             controller: 'HomeCtrl'
         })
+        .when('/billeder', {
+            templateUrl: 'partials/billeder.html',
+            controller: 'HomeCtrl'
+        })
         .when('/billet', {
             templateUrl: 'partials/billet.html',
             controller: 'HomeCtrl'

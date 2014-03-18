@@ -1,0 +1,16 @@
+<div class="jumbotron page-billeder">
+    <div class="row">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="{{$index}}" ng-class="{active: $first}" ng-repeat="picture in gallery"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item text-center" ng-class="{active: $first}" ng-repeat="picture in gallery">
+                    <img ng-src="{{picture.image}}">
+                </div>
+            </div>
+            <a class="left carousel-control" data-slide="prev" data-target="#myCarousel" ><span class="glyphicon glyphicon-chevron-left"></span></a>
+            <a class="right carousel-control" data-slide="next" data-target="#myCarousel" ><span class="glyphicon glyphicon-chevron-right"></span></a>
+        </div>
+    </div>
+</div>

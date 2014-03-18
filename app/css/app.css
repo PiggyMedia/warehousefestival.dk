@@ -36,6 +36,11 @@ body {
     margin: 10px 0;
 }
 
+/* information template */
+.page-billeder img {
+    display: inline-block !important;
+}
+
 /* program template */
 .artists {
     margin: 10px 0;
