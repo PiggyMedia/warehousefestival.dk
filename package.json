@@ -8,6 +8,7 @@
   },
   "author": "tcarlsen",
   "license": "BSD-2-Clause",
+  "repository": "https://github.com/PiggyMedia/warehousefestival.dk",
   "dependencies": {
     "tiny-lr": "0.0.5",
     "gulp-ngmin": "~0.1.2",
