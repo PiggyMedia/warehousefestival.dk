@@ -34,5 +34,9 @@
   {
 		"name": "First Hotel Grand",
 		"image": "img/logos/FirstHotelGrand.png"
+	},
+	{
+		"name": "City Container",
+		"image": "img/logos/odense-city-container.png"
 	}
 ]
