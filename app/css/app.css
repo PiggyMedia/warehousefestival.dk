@@ -32,6 +32,10 @@ body {
 }
 
 /* information template */
+.page-information {
+  margin-top: 90px;
+}
+
 .sponsors {
     margin: 10px 0;
 }
