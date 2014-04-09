@@ -34,6 +34,11 @@
 		"day": "",
 		"image": "img/artists/whf14toomanylefthands.jpg"
 	},
+	{
+		"name": "Mikael Weermets",
+		"day": "",
+		"image": "img/artists/whf14NYmikaelweermets.jpg"
+	},
     {
 		"name": "Snavs",
 		"day": "",
@@ -48,6 +53,11 @@
 		"name": "Fabian Mazur",
 		"day": "",
 		"image": "img/artists/whf14fabianmazur.jpg"
+	},
+	{
+		"name": "FAT PoNY",
+		"day": "",
+		"image": "img/artists/whf14NYfatpony.jpg"
 	},
 	{
 		"name": "MOTO",
@@ -80,11 +90,6 @@
 		"image": "img/artists/whf14NYsvenfrancisco.jpg"
 	},
 	{
-		"name": "FAT PoNY",
-		"day": "",
-		"image": "img/artists/whf14NYfatpony.jpg"
-	},
-	{
 		"name": "Karl Smart",
 		"day": "",
 		"image": "img/artists/whf14NYkarlsmart.jpg"
@@ -93,10 +98,5 @@
 		"name": "Emillion",
 		"day": "",
 		"image": "img/artists/whf14NYemillion.jpg"
-	},
-	{
-		"name": "Mikael Weermets",
-		"day": "",
-		"image": "img/artists/whf14NYmikaelweermets.jpg"
 	}
 ]
