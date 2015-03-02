@@ -1,18 +1,24 @@
 <div class="jumbotron page-program">
     <h1>Musikprogram</h1>
     <p>Igen i år præsenterer Warehouse Festival 4 dage med 4 forskellige musikgenrer.</p>
-    <img src="img/program.png" alt="Program" class="img-responsive center-block">
-    <h2>Artister:</h2>
     <div class="row">
-        <div class="col-md-4 artists" ng-repeat="artist in artists">
-            <div class="panel panel-artists">
+        <div class="col-md-4">
+            <h3>TORSDAG D. 30 APRIL</h3>
+            <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'thursday'}">
                 <img ng-src="{{artist.image}}" alt="{{artist.name}}" class="img-responsive">
-                <div class="panel-heading text-center">
-                    <h3 class="panel-title">{{artist.name}}</h3>
-                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>FREDAG D. 1 MAJ</h3>
+            <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'friday'}">
+                <img ng-src="{{artist.image}}" alt="{{artist.name}}" class="img-responsive">
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>LØRDAG D. 2 MAJ</h3>
+            <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'saturday'}">
+                <img ng-src="{{artist.image}}" alt="{{artist.name}}" class="img-responsive">
             </div>
         </div>
     </div>
 </div>
-
-<!--filter:{ day: 'fredag' }-->
