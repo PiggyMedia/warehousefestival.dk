@@ -1,102 +1,42 @@
 [
-	{
-		"name": "Turboweekend",
-		"day": "",
-		"image": "img/artists/whf14turboweekend.jpg"
+  {
+		"name": "Wafande",
+		"day": "thursday",
+		"image": "img/artists/torsdag1wafande.jpg"
 	},
-    {
-		"name": "TopGunn",
-		"day": "",
-		"image": "img/artists/whf14topgunn.jpg"
+  {
+		"name": "Pharfar",
+		"day": "thursday",
+		"image": "img/artists/torsdag2pharfar.jpg"
 	},
-	{
-		"name": "L.I.G.A",
-		"day": "",
-		"image": "img/artists/whf14liga.jpg"
+  {
+		"name": "Kaka",
+		"day": "thursday",
+		"image": "img/artists/torsdag3kaka.jpg"
 	},
-	{
-		"name": "Kenneth Bager",
-		"day": "",
-		"image": "img/artists/whf14kennethbager.jpg"
+  {
+		"name": "Dean Thompson",
+		"day": "thursday",
+		"image": "img/artists/torsdag4deanthompson.jpg"
 	},
-    {
-		"name": "Vild $mith",
-		"day": "",
-		"image": "img/artists/whf14vildsmith.jpg"
+  {
+		"name": "When saints go machine",
+		"day": "friday",
+		"image": "img/artists/fredag1whensaints.jpg"
 	},
-	{
-		"name": "JULIAS MOON",
-		"day": "",
-		"image": "img/artists/whf14juliasmoon.jpg"
+  {
+		"name": "slaughter Beach",
+		"day": "friday",
+		"image": "img/artists/fredag2slaughterbeach.jpg"
 	},
-	{
-		"name": "TooManyLeftHands",
-		"day": "",
-		"image": "img/artists/whf14toomanylefthands.jpg"
+  {
+		"name": "Medina",
+		"day": "saturday",
+		"image": "img/artists/loerdag1medina.jpg"
 	},
-	{
-		"name": "Mikael Weermets",
-		"day": "",
-		"image": "img/artists/whf14NYmikaelweermets.jpg"
-	},
-    {
-		"name": "Snavs",
-		"day": "",
-		"image": "img/artists/whf14snavs.jpg"
-	},
-	{
-		"name": "Heimatt",
-		"day": "",
-		"image": "img/artists/whf14heimatt.jpg"
-	},
-    {
-		"name": "Fabian Mazur",
-		"day": "",
-		"image": "img/artists/whf14fabianmazur.jpg"
-	},
-	{
-		"name": "FAT PoNY",
-		"day": "",
-		"image": "img/artists/whf14NYfatpony.jpg"
-	},
-	{
-		"name": "MOTO",
-		"day": "",
-		"image": "img/artists/whf14moto.jpg"
-	},
-	{
-		"name": "Affekt",
-		"day": "",
-		"image": "img/artists/whf14affekt.jpg"
-	},
-	{
-		"name": "Dirty Old Town",
-		"day": "",
-		"image": "img/artists/whf14dirtyoldtown.jpg"
-	},
-	{
-		"name": "Annasaid",
-		"day": "",
-		"image": "img/artists/whf14annasaid.jpg"
-	},
-	{
-		"name": "Amin Safari og Hamdernicolai",
-		"day": "",
-		"image": "img/artists/whf14aminsafarioghamdernicolai.jpg"
-	},
-	{
-		"name": "Sven Francisco",
-		"day": "",
-		"image": "img/artists/whf14NYsvenfrancisco.jpg"
-	},
-	{
-		"name": "Karl Smart",
-		"day": "",
-		"image": "img/artists/whf14NYkarlsmart.jpg"
-	},
-	{
-		"name": "Emillion",
-		"day": "",
-		"image": "img/artists/whf14NYemillion.jpg"
+  {
+		"name": "Nonsens",
+		"day": "saturday",
+		"image": "img/artists/loerdag2nonsens.jpg"
 	}
 ]
