@@ -5,19 +5,34 @@
         <div class="col-md-4">
             <h3>TORSDAG D. 30 APRIL</h3>
             <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'thursday'}">
-                <img ng-src="{{artist.image}}" alt="{{artist.name}}" class="img-responsive">
+                <img ng-src="{{artist.image}}" ng-click="setInfo(artist)" alt="{{artist.name}}" class="img-responsive">
             </div>
         </div>
         <div class="col-md-4">
             <h3>FREDAG D. 1 MAJ</h3>
             <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'friday'}">
-                <img ng-src="{{artist.image}}" alt="{{artist.name}}" class="img-responsive">
+                <img ng-src="{{artist.image}}" ng-click="setInfo(artist)" alt="{{artist.name}}" class="img-responsive">
             </div>
         </div>
         <div class="col-md-4">
             <h3>LØRDAG D. 2 MAJ</h3>
             <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'saturday'}">
-                <img ng-src="{{artist.image}}" alt="{{artist.name}}" class="img-responsive">
+                <img ng-src="{{artist.image}}" ng-click="setInfo(artist)" alt="{{artist.name}}" class="img-responsive">
+            </div>
+        </div>
+    </div>
+</div>
+<div id="artist-modal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">{{artistInfo.name}}</h4>
+            </div>
+            <div class="modal-body">
+                <p ng-bind-html="artistInfo.description | nl2br"></p>
+                <p>Besøg {{artistInfo.name}} på <a href="{{artistInfo.facebook}}">Facebook</a>.</p>
+                <iframe type="text/html" width="558" height="300" ng-src="{{artistInfo.video | url}}" frameborder="0"/>
             </div>
         </div>
     </div>
