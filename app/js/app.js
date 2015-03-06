@@ -4,7 +4,8 @@ var whfApp = angular.module('whfApp', [
     'ngRoute',
     'ngAnimate',
     'whfControllers',
-    'whfDirectives'
+    'whfDirectives',
+    'whfFilters'
 ]);
 
 whfApp.config(function ($routeProvider) {
