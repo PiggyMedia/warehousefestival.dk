@@ -40,6 +40,22 @@
     "video": "http://www.youtube.com/embed/aEvnsKdP2m0"
 	},
   {
+		"name": "METTRO",
+		"day": "friday",
+		"image": "img/artists/fredag2mettro.jpg",
+    "description": "Det unge danske elektro-/rock band fra Skive har spillet sammen siden 2008 og har opnået prominente spillejobs i deres forholdsvis korte levetid.\n\nSommeren 2011-12 har Mettro gæstet steder som Skive Festival, Bork Havn Musikfestival, DMF festival, Den Grimmeste Festival samt Samsø Festival.\n\nMattias Kolstrup, forsanger i Dúné, er en af mange der er kommet med lovprisende ord om Mettro “Jeg tror også, at der snart kommer et nyt Skive-band med potentiale, siger Mattias, der i julen var hjemme og blev begejstret tilhænger af bandet Mettro” til Fyens Amts Avis.\n\nSamsø festival mente således om vinderne af deres Talentscene, ”På Samsø festival gjorde de en fantastisk indsats både til deres koncert på garagen og efterfølgende på den større scene i Rullen. Her fik de folk med og deres musik var et særdeles positivt indslag.\n\nBandet har for nyligt udgivet deres nye Single \"QUEEN\" som har fået stor ros og givet genklang i branchen.",
+    "facebook": "https://www.facebook.com/mettroofficial",
+    "video": "http://www.youtube.com/embed/pauWBBY2w9U"
+	},
+  {
+		"name": "Lou Van",
+		"day": "friday",
+		"image": "img/artists/fredag5louvan.jpg",
+    "description": "Lou Van has the last 6 years been making a living of DJ’ing in his hometown of Copenhagen, Denmark, and he recently celebrated his no. 1000 gig. In 2012 he got asked to do a monthly show at the danish national radiostation, P3 to be the host of the radioshow called Unga Bunga, with more than 150.000 live listeners tuning in every week, that would catch the tunes he plays during the weekends.\n\nBesides DJ’ing Lou has always been fiddleling around with Ableton Live, making his own music, and in the year of 2013 he decided to go all in with producing his own stuff.\n\nAs a producer (and DJ), expect bouncy and vocalised deep house/nu-disco with a melancholic touch. The melody is the key, is the motto. 2013 already brought a lot of releases and signings for the young dane. His releases count labels such as Sleazy Deep, Lovestyle Records, Dear Deer Records, Sound of Copenhagen and more to come! Lou Van currently holds residencies and is the booker at the nightclubs in Copenhagen called Simons and Sunday.",
+    "facebook": "https://www.facebook.com/louvanmusic",
+    "video": "http://www.youtube.com/embed/UniyIA8qCOM"
+	},
+  {
 		"name": "Medina",
 		"day": "saturday",
 		"image": "img/artists/loerdag1medina.jpg",
@@ -62,5 +78,13 @@
     "description": "Bag kunstnernavnet Moses: ”Andreas” finder man sangskriver og vokalist Andreas Odbjerg samt lyddesigner og producer Moses Fiellau. Sammen har de skabt elektronisk funderet R&B pop, hvor Andreas intense og fængende vokal samt jordnære tekster, er omdrejningspunktet for Moses Fiellaus hyperintelligente og stramme produktioner.\n\nDuoen mødte hinanden i hjembyen Odense i 2010 og udviklede hurtigt et nært venskab, hvor passionen for musik var omdrejningspunktet. 2013 førte dem sammen trommeslager og producer Birk Nevel og Moses: ”Andreas” begyndte for alvor at tage form som det ambitiøse pop-projekt det er i dag. NMS kastede i starten af 2015 deres kærlighed på projektet og en aftale blev skrevet under.\n\nBevæbnede med en bunke sange og skitser brugte Moses og Andreas hele sommeren 2014 sammen, hvor de dagligt arbejdede med produktioner og sangskrivning i en garage i Odense, der var blevet indrettet som indspilningsstudie. Det er der kommet en bunke sange ud af, hvor nærhed, venskab og tvivlsomme valg gennemsyrer duoens verden. De kigger dig dybt i øjnene, tager din kolde hånd og fortæller dig alt det du egentlig godt ved, men ikke nødvendigvis kan gøre for.\n\nSamarbejdet mellem Moses: ”Andreas” og NMS vil i 2015 byde på flere udgivelser, og en single kommer på gaden primo april.",
     "facebook": "https://www.facebook.com/MosesAndreasOfficial",
     "video": "http://www.youtube.com/embed/VK-j8Uw-prg"
+	},
+  {
+		"name": "Paper Cranes”",
+		"day": "saturday",
+		"image": "img/artists/loerdag5papercranes.jpg",
+    "description": "Paper Cranes er en elektronisk trio med medlemmer fordelt i Odense og Århus. Gruppen benyt­ter virkemidler fra electronica, der kombineret med pop­pet sen­si­bi­li­tet og en soul-fyldt klang trans­for­me­rer de tek­ni­ske greb til sjæl­fuld slowmotion-pop. Med længselsfulde tekster og tunge beats skaber Paper Cranes et både atmosfærisk og dansabelt lydunivers, der henter inspiration fra et bredt musikalsk spektrum. Trioen fandt sammen i begyndelsen af 2013 efter et møde på Roskilde Festival 2012, og siden da har bandet udgivet en EP, YRTPS, og spillet en håndfuld koncerter rundt omkring i landet. Paper Cranes arbejder i øjeblikket på en ep, med udgivelsesdato i foråret 2015.",
+    "facebook": "https://www.facebook.com/PaperCranesDK",
+    "video": "http://www.youtube.com/embed/mmND_ngg1f8 "
 	}
 ]
