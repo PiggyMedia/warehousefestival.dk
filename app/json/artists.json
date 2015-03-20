@@ -48,6 +48,14 @@
     "video": "http://www.youtube.com/embed/pauWBBY2w9U"
 	},
   {
+    "name": "Paper Cranes”",
+    "day": "friday",
+    "image": "img/artists/loerdag5papercranes.jpg",
+    "description": "Paper Cranes er en elektronisk trio med medlemmer fordelt i Odense og Århus. Gruppen benyt­ter virkemidler fra electronica, der kombineret med pop­pet sen­si­bi­li­tet og en soul-fyldt klang trans­for­me­rer de tek­ni­ske greb til sjæl­fuld slowmotion-pop. Med længselsfulde tekster og tunge beats skaber Paper Cranes et både atmosfærisk og dansabelt lydunivers, der henter inspiration fra et bredt musikalsk spektrum. Trioen fandt sammen i begyndelsen af 2013 efter et møde på Roskilde Festival 2012, og siden da har bandet udgivet en EP, YRTPS, og spillet en håndfuld koncerter rundt omkring i landet. Paper Cranes arbejder i øjeblikket på en ep, med udgivelsesdato i foråret 2015.",
+    "facebook": "https://www.facebook.com/PaperCranesDK",
+    "video": "http://www.youtube.com/embed/mmND_ngg1f8 "
+  },
+  {
 		"name": "Lou Van",
 		"day": "friday",
 		"image": "img/artists/fredag5louvan.jpg",
@@ -88,11 +96,19 @@
     "video": "http://www.youtube.com/embed/VK-j8Uw-prg"
 	},
   {
-		"name": "Paper Cranes”",
+		"name": "Waqas",
 		"day": "saturday",
-		"image": "img/artists/loerdag5papercranes.jpg",
-    "description": "Paper Cranes er en elektronisk trio med medlemmer fordelt i Odense og Århus. Gruppen benyt­ter virkemidler fra electronica, der kombineret med pop­pet sen­si­bi­li­tet og en soul-fyldt klang trans­for­me­rer de tek­ni­ske greb til sjæl­fuld slowmotion-pop. Med længselsfulde tekster og tunge beats skaber Paper Cranes et både atmosfærisk og dansabelt lydunivers, der henter inspiration fra et bredt musikalsk spektrum. Trioen fandt sammen i begyndelsen af 2013 efter et møde på Roskilde Festival 2012, og siden da har bandet udgivet en EP, YRTPS, og spillet en håndfuld koncerter rundt omkring i landet. Paper Cranes arbejder i øjeblikket på en ep, med udgivelsesdato i foråret 2015.",
-    "facebook": "https://www.facebook.com/PaperCranesDK",
-    "video": "http://www.youtube.com/embed/mmND_ngg1f8 "
+		"image": "img/artists/loerdag5waqas.jpg",
+    "description": "Waqas fra Bandet Outlandish er klar med sin engelsksprogede EP Luciddreams. Bag knapperne er produceren Jabz  og med som gæster er bla prominente navne som  Medina og Sivas.\n\nProduktionerne er mere ude i et melankolsk drømende univers, end det man er vant til at høre Outlandish i. Teksterne kredser sig bla om hvordan det er at leve med en person der lider af depression og om at miste troen på sig selv.\n\nCitat\n\n\"Det har været vigtigt for mig at udforske dele af mig som jeg i lang tid har lagt låg på.\"\n\nDen Waqas du ser og  hører i Outland regi er stadig mig men en komprimeret og tilpasset version. Jeg går som regel rundt med et parallel univers inde i mit hovedet, hvor det er mig der styrer slagets gang og hvor scenarier udfolder sig som jeg vil have dem gang uden at jeg skal lefle for nogen, derfor hedder Ep´en Lucid dreams. Drømme og musik som jeg selv styrer og tager hen hvor jeg vil.",
+    "facebook": null,
+    "video": null
+	},
+  {
+		"name": "Dex",
+		"day": "saturday",
+		"image": "img/artists/loerdag6dex.jpg",
+    "description": "Danish Dj and producer with an impressive number of successful singles and remixes on labels like Disco:Wax/Sony Music, Caos promotion/Pacha Records, Soulmagic Recording, Kash Cow, Labelmade, Zoo Production etc.\n\nWith more than 20 years of experience on the music scene, Dex has played around the world at parties such as Hed Kandi, Ministry of Sound, MTV and Award shows. \n\nAs a true master behind the turntables, he has won numerous competitions, including Danish Deejay Battle and Corona Movida Dj Battle.\n\nDex has an incredible ability to play and produce for what function on the dance floor, his live sets are exciting and full of surprising bootlegs, mashups and his personal sound that fits any scene.\n\nA versatile and professional DJ, who deliver the best party regardless of audience",
+    "facebook": "https://www.facebook.com/dexfansite",
+    "video": null
 	}
 ]
