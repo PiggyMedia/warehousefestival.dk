@@ -31,8 +31,8 @@
             </div>
             <div class="modal-body">
                 <p ng-bind-html="artistInfo.description | nl2br"></p>
-                <p>Besøg {{artistInfo.name}} på <a href="{{artistInfo.facebook}}">Facebook</a>.</p>
-                <iframe type="text/html" width="558" height="300" ng-src="{{artistInfo.video | url}}" frameborder="0"/>
+                <p ng-if="artistInfo.facebook">Besøg {{artistInfo.name}} på <a href="{{artistInfo.facebook}}">Facebook</a>.</p>
+                <iframe ng-if="artistInfo.video" type="text/html" width="558" height="300" ng-src="{{artistInfo.video | url}}" frameborder="0"/>
             </div>
         </div>
     </div>
