@@ -10,12 +10,18 @@
         </div>
         <div class="col-md-4">
             <h3>FREDAG D. 1 MAJ</h3>
+            <div class="panel panel-artists">
+              <img src="img/fredag1.jpg" class="img-responsive">
+            </div>
             <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'friday'}">
                 <img ng-src="{{artist.image}}" ng-click="setInfo(artist)" alt="{{artist.name}}" class="img-responsive">
             </div>
         </div>
         <div class="col-md-4">
             <h3>LØRDAG D. 2 MAJ</h3>
+            <div class="panel panel-artists">
+              <img src="img/loerdag1.jpg" class="img-responsive">
+            </div>
             <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'saturday'}">
                 <img ng-src="{{artist.image}}" ng-click="setInfo(artist)" alt="{{artist.name}}" class="img-responsive">
             </div>
