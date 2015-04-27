@@ -4,6 +4,9 @@
     <div class="row">
         <div class="col-md-4">
             <h3>TORSDAG D. 30 APRIL</h3>
+            <div class="panel panel-artists">
+              <img src="img/praesenteresstudiebyen.jpg" class="img-responsive">
+            </div>
             <div class="panel panel-artists" ng-repeat="artist in artists | filter:{day: 'thursday'}">
                 <img ng-src="{{artist.image}}" ng-click="setInfo(artist)" alt="{{artist.name}}" class="img-responsive">
             </div>
